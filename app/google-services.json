@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "8382419858",
+    "firebase_url": "https://te-lord.firebaseio.com",
+    "project_id": "te-lord",
+    "storage_bucket": "te-lord.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8382419858:android:35cb72e67d1ed0a7",
+        "android_client_info": {
+          "package_name": "com.example.te_lord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8382419858-tsadfkrr2kiugupst78q6ja2jbk68er5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.te_lord",
+            "certificate_hash": "65eeb10f3b650abb1caffca1e159e08fe4ba475c"
+          }
+        },
+        {
+          "client_id": "8382419858-u618hp5k4fftthrdaofau9rq2hsqrp82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBch23txjq2WAf6ezdSTfgVg38eJBMXvBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8382419858-u618hp5k4fftthrdaofau9rq2hsqrp82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
